@@ -1,0 +1,11 @@
+streamlit
+joblib
+numpy
+scikit-learn
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+plotly
+xgboost
